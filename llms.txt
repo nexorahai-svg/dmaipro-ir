@@ -1,0 +1,153 @@
+# DMAI Pro
+
+> A business messaging assistant for Instagram, WhatsApp and Telegram that runs on the business's own Windows computer. It answers customers around the clock in Persian, Arabic and English using only the business's own information, takes orders, bookings and payments inside the chat, and hands anything it cannot answer to the team. Fixed cost, no fee per message; ready flows for 1,907 jobs in 217 trades and 16 specialised modules; a 7-day free trial.
+
+Every page exists in English (/en/), Persian (/fa/) and Arabic (/ar/).
+
+## Product
+- [Instagram, WhatsApp and Telegram in one list](https://dmaipro.app/en/product/inbox/): Every conversation carries its channel's mark. Unread messages, chats waiting for your team and chats with the assistant each have their own filter.
+- [Replies built from your own business information](https://dmaipro.app/en/product/ai/): The assistant runs on your own computer and relies only on your services, prices, hours, address and saved FAQs for every reply.
+- [A staff calendar, inside the conversation](https://dmaipro.app/en/product/booking/): Customers are offered only times that are really free, taking each service's length, the staff who can do it and the gaps between bookings into account.
+- [Request a payment, receive the receipt, confirm](https://dmaipro.app/en/product/payments/): Each country's payment methods: IBAN, payment links, Stripe and PayPal; card-to-card and Zarinpal for Iran. The customer's receipt appears next to the amount.
+- [Ready flows for 1,907 jobs in 217 trades](https://dmaipro.app/en/product/flows/): Choose your trade and a set of flows is installed: booking, price questions, comment to DM, rescheduling and after-service follow-up. Each one can be changed.
+- [One profile per customer, one column per stage](https://dmaipro.app/en/product/crm/): A customer who wrote from several apps has one profile. Sales stage, tags, tasks and notes live in that profile.
+- [Your inbox, on your phone](https://dmaipro.app/en/product/mobile/): The phone app goes on your Android or iPhone home screen without an app store and connects to the business computer by scanning a code.
+- [The phone app: how it works](https://dmaipro.app/en/phone-app/): run the day's work from a phone while DMAI Pro runs on the business computer; setup on iPhone and Android, security, limits
+- [Security and privacy](https://dmaipro.app/en/security/): data stays on the business's own computer
+
+## Get started
+- [Download](https://dmaipro.app/en/download/): Windows installers and requirements
+- [Is my computer enough?](https://dmaipro.app/en/check/): a one-minute check in the browser of what the app does on a given computer
+- [Pricing](https://dmaipro.app/en/pricing/): editions and the free trial
+- [Solutions by trade](https://dmaipro.app/en/solutions/): ready setups for 1,907 jobs in 217 trades
+
+## Help centre
+- [Requirements](https://dmaipro.app/en/help/need/)
+- [Installation (about 5 minutes)](https://dmaipro.app/en/help/install/)
+- [First task: owner account and recovery code](https://dmaipro.app/en/help/security/)
+- [Setup assistant (9 steps)](https://dmaipro.app/en/help/wizard/)
+- [Connect Instagram (9 steps)](https://dmaipro.app/en/help/instagram/)
+- [Connect Telegram (the easiest, 3 steps)](https://dmaipro.app/en/help/telegram/)
+- [Connect WhatsApp (WhatsApp Business API)](https://dmaipro.app/en/help/whatsapp/)
+- [Public address](https://dmaipro.app/en/help/address/)
+- [Artificial intelligence](https://dmaipro.app/en/help/ai/)
+- [Smart setup for your business (one click)](https://dmaipro.app/en/help/smart/)
+- [Building flows and automations](https://dmaipro.app/en/help/flows/)
+- [Daily work](https://dmaipro.app/en/help/daily/)
+- [Starting, stopping and auto-start](https://dmaipro.app/en/help/run/)
+- [Backup and restore](https://dmaipro.app/en/help/backup/)
+- [Troubleshooting](https://dmaipro.app/en/help/trouble/)
+- [Updating and uninstalling](https://dmaipro.app/en/help/update/)
+
+## Panel guides (one per section of the app)
+- [Dashboard](https://dmaipro.app/en/academy/dash/): Your business at a glance: what is waiting for you today, how far setup is, today's numbers and the sales funnel.
+- [Conversations](https://dmaipro.app/en/academy/convs/): Every Instagram, WhatsApp and Telegram message in one inbox. Here you read a conversation, reply yourself, approve the assistant's suggestion or hand the conversation to a teammate.
+- [Flows](https://dmaipro.app/en/academy/flows/): A flow is an automatic, step-by-step conversation: a trigger (the word «price», a comment or an ad, for example), then messages, buttons, questions, conditions and actions on a visual canvas.
+- [Customers](https://dmaipro.app/en/academy/crm/): One case per person: the conversation, forms, media, notes and timeline in one place. The list shows each customer's stage, tags, source and last activity.
+- [Sales board](https://dmaipro.app/en/academy/board/): Each sales stage is a column and each customer a card. Drag a card to change the customer's stage.
+- [Tasks & follow-up](https://dmaipro.app/en/academy/tasks/): The team's tasks with due times, reminders and Telegram alerts: a call, a message, a meeting, a payment, anything to do for a customer.
+- [Payments](https://dmaipro.app/en/academy/payments/): Card-transfer receipts and online payments, confirming or rejecting them, each customer's active period and renewal reminders.
+- [Tickets](https://dmaipro.app/en/academy/tickets/): Requests that need the team's reply, ordered by priority and wait time: a complaint, a special request, or a question the assistant couldn't answer.
+- [Approval queue](https://dmaipro.app/en/academy/drafts/): Replies the assistant wrote that are waiting for you. In «Manual approval» mode every reply comes here; in «Auto-reply» mode only the ones the assistant is unsure about.
+- [Comments](https://dmaipro.app/en/academy/comments/): Comments on your Instagram posts and what was done with them: a public reply under the post, a private DM to that person, or nothing.
+- [Automations](https://dmaipro.app/en/academy/autos/): Keywords in DMs, comments and stories that start a reply: a fixed reply, a ready flow, or an AI conversation with a specific mission.
+- [Default messages](https://dmaipro.app/en/academy/defaults/): The system DM messages (outside business hours, no answer found, and so on), how often each may repeat, and your business hours.
+- [Lexicon](https://dmaipro.app/en/academy/lexicon/): Synonym groups, casual forms and Finglish, so keywords work better: any word in a group also matches every other word in it.
+- [Match log](https://dmaipro.app/en/academy/matchlog/): For every message and comment, why it did or didn't get a reply: which keyword, by which route, or that it was excluded, negative or a repeat.
+- [AI log](https://dmaipro.app/en/academy/ailog/): Every AI reply with its source, tools, checks, time and cost, so you can see why the bot said what it said.
+- [Content & pricing](https://dmaipro.app/en/academy/content/): Everything the assistant knows about your business: the brand name and welcome message, packages and prices, the AI's knowledge, the FAQ and the bot's tone.
+- [Setup](https://dmaipro.app/en/academy/start/): Every required setting, step by step: language, trade, opening hours, address, services and prices, and connecting your messaging apps. Each step is tested right there.
+- [Settings & connections](https://dmaipro.app/en/academy/setup/): Business profile, country and currency, contact channels, payment methods and connections. Each item is tested, and only verified ones are shown to customers.
+- [Settings](https://dmaipro.app/en/academy/settings/): How the bot replies: automatic or manual approval, the AI engine and its cost, the Instagram menu, follow-up and handoff, alerts and backups.
+- [Simulator](https://dmaipro.app/en/academy/sim/): Talk to the bot like a real customer on Instagram, Telegram or WhatsApp; nothing is really sent.
+- [Health check](https://dmaipro.app/en/academy/health/): Checks every flow, automation, saved message, form and scenario together: repeated keywords, missing texts, app limits, broken links and dead ends.
+- [Intents](https://dmaipro.app/en/academy/intents/): Groups of what a customer means (price, booking, shipping, complaint…) with their words; the bot first works out a message's intent, then picks the right reply.
+- [System](https://dmaipro.app/en/academy/system/): This computer's status: what DMAI Pro does now and what it doesn't, required software, network, the built-in AI engine and its models, and the software licence.
+- [Safety rules](https://dmaipro.app/en/academy/safety/): Rules that recognise sensitive messages (emergencies, medical, legal, financial, under-18s) and set how the bot behaves with them.
+- [Features](https://dmaipro.app/en/academy/features/): Extra sections for your kind of business (appointments, shop, courses, events, shipments…); each one you turn on adds its own menu to the panel.
+- [Trade pack](https://dmaipro.app/en/academy/packs/): A ready pack for each trade: the flows, forms, messages, words and features that suit that business, installed in one go.
+- [Security](https://dmaipro.app/en/academy/security/): Password login for the panel, the key vault, the recovery code, backups, Meta's data-deletion addresses and the list of active protections.
+- [Smart setup](https://dmaipro.app/en/academy/smart/): The assistant reads your website, Instagram page, past conversations and media library, and proposes prices, common questions and which photo belongs to which product.
+- [Saved messages](https://dmaipro.app/en/academy/snippets/): Ready texts that you and your colleagues send in a chat with one click; flows and automations can use them too.
+- [Forms](https://dmaipro.app/en/academy/forms/): Forms customers fill in a chat or through a link (intake, booking, order…), their fields and their look.
+- [Media library](https://dmaipro.app/en/academy/library/): Photos, videos and files the bot, flows and automations send to customers (catalogue, portfolio, menu, price list).
+- [Stages & tags](https://dmaipro.app/en/academy/pipelines/): Your sales pipeline and its stages (say: enquiry, quote, payment, done) and the tags you put on customers.
+- [Phone app](https://dmaipro.app/en/academy/mobile/): Connect your and your colleagues' phones to this panel, to see chats, alerts and approvals on the phone.
+- [Calendar](https://dmaipro.app/en/academy/sch-cal/): The appointment calendar by day and week, per staff member or room. Bookings the bot takes in DMs land here automatically.
+- [Bookings](https://dmaipro.app/en/academy/sch-list/): Every booking with filters and search: reference, customer, service, time, status, deposit and source.
+- [Services & durations](https://dmaipro.app/en/academy/sch-svc/): Bookable services: duration, buffers before and after, price and deposit, group-class capacity, and who can do it.
+- [Resources & hours](https://dmaipro.app/en/academy/sch-res/): Staff, rooms, equipment and vehicles, each with hours, breaks and days off; plus the whole business's hours and public holidays.
+- [Booking policies](https://dmaipro.app/en/academy/sch-pol/): Booking rules: offered times, cancellation, rescheduling, late arrival and no-shows, holds and reminders. The bot tells customers these rules and applies them.
+- [Orders](https://dmaipro.app/en/academy/cat-orders/): Every order with its status, shipping and payment; orders the bot takes in DMs are recorded here automatically.
+- [Products](https://dmaipro.app/en/academy/cat-products/): Products with options (size, colour…), price, stock, images and category; the bot only offers the products and prices here.
+- [Shipping & settings](https://dmaipro.app/en/academy/cat-ship/): Delivery zones and fees, pickup, cash on delivery, VAT and the return policy.
+- [Returns](https://dmaipro.app/en/academy/cat-returns/): Return, exchange and warranty requests customers send in DMs, with photos or video of the item.
+- [Product waitlist](https://dmaipro.app/en/academy/cat-wait/): People waiting for an out-of-stock item to come back; when it's back, you let them know.
+- [Companies](https://dmaipro.app/en/academy/b2b-companies/): Customers' company accounts: company details, document verification, credit, price tier and contacts.
+- [Quote requests](https://dmaipro.app/en/academy/b2b-rfqs/): Companies' quote requests; you price each one and send it as a pro-forma.
+- [Invoices](https://dmaipro.app/en/academy/b2b-invoices/): Pro-forma and tax invoices, payments and due dates.
+- [Pricing & MOQ](https://dmaipro.app/en/academy/b2b-pricing/): Price tiers (say, distributor or contractor), quantity breaks, minimum orders and wholesale settings.
+- [Signed consents](https://dmaipro.app/en/academy/cns-records/): Every signed consent with its version, text fingerprint and permissions, plus forms waiting for a signature.
+- [Expiring](https://dmaipro.app/en/academy/cns-expiring/): Consents that will expire soon and need signing again.
+- [Templates & settings](https://dmaipro.app/en/academy/cns-templates/): Consent form texts in three languages, health questions, age rules and validity, and a library of ready forms.
+- [Programs & levels](https://dmaipro.app/en/academy/crs-programs/): What you teach: programs (say, English), levels, fees and books; and each program's classes with teacher, days, times and capacity.
+- [Timetable](https://dmaipro.app/en/academy/crs-timetable/): This week's sessions in your calendar and the class list; make-up sessions and cancellations are done here too.
+- [Enrollments](https://dmaipro.app/en/academy/crs-enrollments/): Students and guardians, enrollments, fees, attendance, progress and certificates.
+- [Attendance](https://dmaipro.app/en/academy/crs-attendance/): Recent sessions and attendance, plus each teacher's own attendance link.
+- [Waitlists](https://dmaipro.app/en/academy/crs-waitlists/): Who is waiting for each full class; a freed seat is offered to the next person automatically.
+- [Placement](https://dmaipro.app/en/academy/crs-placement/): Placement tests and their results; the bot sends the test in the chat and suggests the right class.
+- [Document requests](https://dmaipro.app/en/academy/doc-board/): Document applications: each request, the list of documents the customer must send and each one's status. Customers upload through a secure link.
+- [Review queue](https://dmaipro.app/en/academy/doc-review/): Newly arrived documents to review, oldest first; approve with the expiry date and number, or reject with a reason.
+- [Expiring soon](https://dmaipro.app/en/academy/doc-expiring/): Documents about to expire and their renewal reminders.
+- [Checklists](https://dmaipro.app/en/academy/doc-checklists/): The documents each service needs, a library of ready checklists, and application settings.
+- [Donations](https://dmaipro.app/en/academy/don-donations/): The ledger of gifts: every payment, receipt and refund, and which campaign or case it was for.
+- [Campaigns](https://dmaipro.app/en/academy/don-campaigns/): Campaigns with a goal, deadline, story and progress; each campaign's public page and an appeal to past donors.
+- [Monthly giving](https://dmaipro.app/en/academy/don-pledges/): Monthly gifts and pledges: who, how much and the next date.
+- [Beneficiary cases](https://dmaipro.app/en/academy/don-cases/): Beneficiary cases: the public part donors see and the private part only the team sees.
+- [Volunteers](https://dmaipro.app/en/academy/don-volunteers/): Volunteers, their skills, shifts and hours.
+- [Proofs of service](https://dmaipro.app/en/academy/don-proofs/): Photos and video of the sacrifice or distribution for the donor, so they see where their gift went.
+- [Events calendar](https://dmaipro.app/en/academy/evt-calendar/): The events calendar: date locks, holds until the deposit, and each day's events with details, run sheet and payments.
+- [Packages](https://dmaipro.app/en/academy/evt-packages/): Event packages with options and a per-guest price; an event's price = package × guests + options.
+- [Guest lists](https://dmaipro.app/en/academy/evt-guests/): Guest lists, invitations, RSVPs, meal choices and QR check-in.
+- [Tickets & check-in](https://dmaipro.app/en/academy/evt-tickets/): Public ticketed events: sessions, capacity, ticket sales in DMs, orders and entry.
+- [Dispatch board](https://dmaipro.app/en/academy/fld-board/): Each day by technician; drag a job onto a technician to assign it. Home-visit bookings show up here automatically.
+- [Jobs](https://dmaipro.app/en/academy/fld-jobs/): Every on-site job with search and status; each with a checklist, before/after photos, parts, the customer's sign-off and payment.
+- [Recurring visits](https://dmaipro.app/en/academy/fld-plans/): Weekly, fortnightly and monthly recurring visits; each round's jobs are created automatically.
+- [Service areas](https://dmaipro.app/en/academy/fld-areas/): Service areas: radius, map areas, area names, postal codes and travel fees.
+- [Team & setup](https://dmaipro.app/en/academy/fld-team/): Technicians and their private links, checklists and field-service settings.
+- [Shipments board](https://dmaipro.app/en/academy/log-board/): Every shipment by stage, from booking to delivery.
+- [Shipments](https://dmaipro.app/en/academy/log-shipments/): Search and manage shipments: status, labels, tracking, cash on delivery and proof of delivery.
+- [Pickups](https://dmaipro.app/en/academy/log-pickups/): Each day's pickups and drivers.
+- [Rate cards](https://dmaipro.app/en/academy/log-rates/): Rate cards: zones, weight bands, volumetric weight, service levels and surcharges. The bot uses them for instant quotes in DMs.
+- [Claims](https://dmaipro.app/en/academy/log-claims/): Claims for damage, loss and delay.
+- [COD settlement](https://dmaipro.app/en/academy/log-settle/): Settling with senders: cash collected on delivery minus fees and unpaid shipping.
+- [Drivers & setup](https://dmaipro.app/en/academy/log-setup/): Drivers and their private links, carriers and shipping settings.
+- [Listings](https://dmaipro.app/en/academy/lst-listings/): Listings (property, cars, boats…) with attributes, price, photos and a public page; the bot suggests matching listings from what the customer wants.
+- [Leads](https://dmaipro.app/en/academy/lst-leads/): Everyone looking for something: what they want, budget, score, agent and follow-up status.
+- [Viewings](https://dmaipro.app/en/academy/lst-viewings/): Viewings, test drives, sea trials and interviews; their times and each one's outcome.
+- [Alerts](https://dmaipro.app/en/academy/lst-alerts/): Searches customers saved to hear about new matching listings.
+- [Sell-to-us](https://dmaipro.app/en/academy/lst-intakes/): People who want to sell to you or trade in, with details and valuation.
+- [Plans](https://dmaipro.app/en/academy/mem-plans/): Subscription plans: period, price, credits per period, freezes, skips and recurring deliveries.
+- [Members](https://dmaipro.app/en/academy/mem-members/): Customers' subscriptions, credits left and end dates.
+- [Renewals due](https://dmaipro.app/en/academy/mem-renewals/): Plans ending within 14 days or in their grace period, and renewal payments.
+- [Credits ledger](https://dmaipro.app/en/academy/mem-ledger/): The credits ledger: every credit used, returned and granted.
+- [Deliveries](https://dmaipro.app/en/academy/mem-deliveries/): Each day's deliveries for meal, water and gas plans, and containers.
+- [Payments inbox](https://dmaipro.app/en/academy/pay-inbox/): Every payment by any method: receipts, confirmations, refunds and open payment requests.
+- [Methods by region](https://dmaipro.app/en/academy/pay-methods/): Payment methods by country and currency: gateways, instalments and cash on delivery, with minimum and maximum amounts.
+- [Invoices](https://dmaipro.app/en/academy/pay-invoices/): Invoices, pro-formas and credit notes numbered in sequence, plus VAT settings.
+- [Instalment plans](https://dmaipro.app/en/academy/pay-plans/): Customers' instalments: due dates, reminders and overdue payments.
+- [Refunds](https://dmaipro.app/en/academy/pay-refunds/): Full or partial refunds, through the gateway or by hand.
+- [Cash on delivery](https://dmaipro.app/en/academy/pay-cod/): Cash collected on delivery and paid in.
+- [Quote requests](https://dmaipro.app/en/academy/quo-requests/): What customers sent: answers, photos and files; the quote is built from here.
+- [Quotes](https://dmaipro.app/en/academy/quo-quotes/): Build, version, send and track quotes.
+- [Projects](https://dmaipro.app/en/academy/quo-projects/): Projects: milestones, payments, progress updates, change orders and handover.
+- [Quote settings](https://dmaipro.app/en/academy/quo-setup/): Quote validity, deposits, VAT, line-item templates and terms templates.
+- [Availability](https://dmaipro.app/en/academy/res-grid/): Units across days: stays, rentals, seatings and departures; you see what's booked or free, and when.
+- [Reservations](https://dmaipro.app/en/academy/res-list/): Every reservation with its status, payments and deposit.
+- [Units & rates](https://dmaipro.app/en/academy/res-units/): Unit types (rooms, cars, boats, courts, equipment, tours…), their units, rates, closed dates and photos.
+- [Tables](https://dmaipro.app/en/academy/res-tables/): Restaurant tables and table combinations for bigger parties.
+- [Departures](https://dmaipro.app/en/academy/res-deps/): Scheduled departures (tours, boats, shuttles): seats per departure, weekly patterns and the passenger manifest.
+
+## Optional
+- [Video academy](https://dmaipro.app/en/academy/)
+- [Persian home](https://dmaipro.app/fa/) · [Arabic home](https://dmaipro.app/ar/)

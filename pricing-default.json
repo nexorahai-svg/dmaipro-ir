@@ -1,0 +1,36 @@
+{
+  "note": { "fa": "همه‌ی نسخه‌ها همه‌ی امکانات را دارند؛ تفاوت فقط در مدت مجوز است. هر مجوز برای یک رایانه است.", "ar": "كل النسخ تتضمن كل المزايا؛ الفرق في مدة الترخيص فقط. كل ترخيص لجهاز واحد.", "en": "Every plan includes every feature; only the licence period differs. Each licence is for one computer." },
+  "plans": [
+    { "id": "monthly", "highlight": false,
+      "name": { "fa": "ماهانه", "ar": "شهري", "en": "Monthly" },
+      "desc": { "fa": "برای شروع و آزمودن در کار واقعی", "ar": "للبدء والتجربة في العمل الفعلي", "en": "To start and prove it in real work" },
+      "price": null, "currency": "AED", "period": { "fa": "در ماه", "ar": "شهرياً", "en": "per month" } },
+    { "id": "yearly", "highlight": true,
+      "name": { "fa": "سالانه", "ar": "سنوي", "en": "Yearly" },
+      "badge": { "fa": "پیشنهاد ما", "ar": "نوصي به", "en": "Recommended" },
+      "desc": { "fa": "برای کسب‌وکاری که هر روز پیام می‌گیرد", "ar": "لنشاط يستقبل رسائل كل يوم", "en": "For a business that gets messages every day" },
+      "price": null, "currency": "AED", "period": { "fa": "در سال", "ar": "سنوياً", "en": "per year" } },
+    { "id": "lifetime", "highlight": false,
+      "name": { "fa": "دائمی", "ar": "دائم", "en": "Lifetime" },
+      "desc": { "fa": "یک بار پرداخت، برای همیشه روی همان رایانه", "ar": "دفعة واحدة، للأبد على الجهاز نفسه", "en": "Pay once, keep it on the same computer for good" },
+      "price": null, "currency": "AED", "period": { "fa": "یک بار", "ar": "مرة واحدة", "en": "one time" } }
+  ],
+  "features": [
+    { "fa": "اینستاگرام، واتساپ و تلگرام در یک صندوق", "ar": "إنستغرام وواتساب وتيليجرام في صندوق واحد", "en": "Instagram, WhatsApp and Telegram in one inbox" },
+    { "fa": "دستیار هوش مصنوعی روی رایانه‌ی خودتان", "ar": "مساعد ذكي على جهازك", "en": "The AI assistant on your own computer" },
+    { "fa": "فلوهای آماده‌ی صنف شما", "ar": "تدفقات جاهزة لنشاطك", "en": "Ready flows for your trade" },
+    { "fa": "نوبت‌دهی، پرداخت و رسید", "ar": "المواعيد والدفع والإيصالات", "en": "Booking, payments and receipts" },
+    { "fa": "پرونده‌ی مشتری و تابلوی فروش", "ar": "ملفات العملاء ولوحة المبيعات", "en": "Customer profiles and the sales board" },
+    { "fa": "اپ گوشی و اعلان", "ar": "تطبيق الهاتف والإشعارات", "en": "The phone app and alerts" },
+    { "fa": "فارسی، عربی و انگلیسی", "ar": "الفارسية والعربية والإنجليزية", "en": "Persian, Arabic and English" },
+    { "fa": "بدون هزینه به ازای پیام", "ar": "بلا رسوم على الرسائل", "en": "No fee per message" }
+  ],
+  "faq": [
+    { "q": { "fa": "پس از پایان مجوز چه می‌شود؟", "ar": "ماذا يحدث عند انتهاء الترخيص؟", "en": "What happens when a licence ends?" },
+      "a": { "fa": "پیام‌ها همچنان دریافت و نگهداری می‌شوند و هیچ داده‌ای پاک نمی‌شود؛ فقط ارسال تا تمدید متوقف می‌شود.", "ar": "تستمر الرسائل في الوصول والحفظ ولا تُحذف أي بيانات؛ يتوقف الإرسال فقط حتى التجديد.", "en": "Messages keep arriving and are kept; nothing is deleted. Only sending pauses until you renew." } },
+    { "q": { "fa": "می‌توانم مجوز را به رایانه‌ی دیگری ببرم؟", "ar": "هل يمكن نقل الترخيص لجهاز آخر؟", "en": "Can I move a licence to another computer?" },
+      "a": { "fa": "بله. کد رایانه‌ی تازه را بفرستید تا کلید تازه صادر شود.", "ar": "نعم. أرسل رمز الجهاز الجديد لنصدر مفتاحاً جديداً.", "en": "Yes. Send the new computer's code and a new key is issued." } },
+    { "q": { "fa": "هزینه‌ی دیگری هم هست؟", "ar": "هل توجد تكاليف أخرى؟", "en": "Are there other costs?" },
+      "a": { "fa": "هزینه‌ی پیام نداریم. Meta برای پیام‌های قالبی واتساپ بیرون از پنجره‌ی ۲۴ ساعته، طبق تعرفه‌ی خودش هزینه می‌گیرد؛ مدل هوش مصنوعی ابری هم اختیاری است.", "ar": "لا رسوم على الرسائل. تفرض Meta رسومها على قوالب واتساب خارج نافذة الـ٢٤ ساعة وفق تسعيرتها، والنموذج السحابي اختياري.", "en": "We charge nothing per message. Meta bills WhatsApp template messages sent outside the 24-hour window at its own rates, and a cloud AI model is optional." } }
+  ]
+}
