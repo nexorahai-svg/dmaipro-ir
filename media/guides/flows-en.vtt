@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:14.120
+A flow is an automatic, step-by-step conversation: a trigger, like the word price, a comment or an ad, then messages, buttons, questions and actions on a visual canvas.
+
+2
+00:00:14.666 --> 00:00:24.300
+The quickest way: click New flow, gallery. Search the gallery, and watch the Preview. It runs on a test customer, and sends nothing.
+
+3
+00:00:24.848 --> 00:00:31.190
+Use now adds the flow. If something is missing, it stays a draft until you complete it.
+
+4
+00:00:31.739 --> 00:00:41.370
+To build or edit, put a trigger on the canvas first, then add the next step with plus on any output. Click a step to open its settings.
+
+5
+00:00:41.922 --> 00:00:49.460
+Test runs the flow in the simulator. When it is right, click Publish. Each publish is a new version.
+
+6
+00:00:50.014 --> 00:00:57.170
+The switch beside each flow turns it on or off. And steps that no trigger reaches never run.
