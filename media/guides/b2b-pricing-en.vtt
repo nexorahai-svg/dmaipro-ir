@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:10.670
+Pricing & MOQ: price tiers (say, distributor or contractor), quantity breaks, minimum orders and wholesale settings.
+
+2
+00:00:11.218 --> 00:00:17.250
+Under "Price tiers", create a tier with "New tier" and set a "off" or fixed price.
+
+3
+00:00:17.795 --> 00:00:22.620
+For a quantity break, click "Add rule" and set "From qty".
+
+4
+00:00:23.171 --> 00:00:29.360
+Under "Minimum order quantities", set each item's or category's minimum with "New rule".
+
+5
+00:00:29.905 --> 00:00:34.420
+A tier that companies use isn't deleted, only deactivated.

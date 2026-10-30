@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:12.600
+Rate cards: rate cards: zones, weight bands, volumetric weight, service levels and surcharges. The assistant uses them for instant quotes in DMs.
+
+2
+00:00:13.151 --> 00:00:17.350
+Click "New rate card" and build the zones with "Add zone".
+
+3
+00:00:17.900 --> 00:00:24.480
+Under "Weight bands", price each weight; a row without a weight means each extra kg.
+
+4
+00:00:25.026 --> 00:00:30.820
+Set the "Surcharges" (fuel, insurance, fragile, remote area).
+
+5
+00:00:31.368 --> 00:00:35.650
+Try a route and weight in the "Quote tester" and click "Calculate".
+
+6
+00:00:36.196 --> 00:00:42.220
+Without a rate card, instant quotes in DMs don't work and every question reaches the team.

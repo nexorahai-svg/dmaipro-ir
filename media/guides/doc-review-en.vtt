@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:10.750
+Review queue: newly arrived documents to review, oldest first; approve with the expiry date and number, or reject with a reason.
+
+2
+00:00:11.296 --> 00:00:15.650
+Open a document; every view is written to the "Access log".
+
+3
+00:00:16.202 --> 00:00:21.110
+If it's right, enter the "Expiry date" and number and click "Approve".
+
+4
+00:00:21.656 --> 00:00:26.950
+If there's a problem, click "Reject" and write the reason; it is sent to the customer.
+
+5
+00:00:27.502 --> 00:00:32.330
+Enter the expiry date precisely; renewal reminders are built from it.

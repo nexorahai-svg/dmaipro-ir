@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:13.700
+Intents: groups of what a customer means (price, booking, shipping, complaint…) with their words; the assistant first works out a message's intent, then picks the right reply.
+
+2
+00:00:14.248 --> 00:00:17.400
+Click an intent to see its words and reply.
+
+3
+00:00:17.952 --> 00:00:21.030
+Add the words your customers actually write.
+
+4
+00:00:21.578 --> 00:00:26.330
+Type a sentence in "Test a message" to see which intent it hits.
+
+5
+00:00:26.875 --> 00:00:31.940
+Don't put one word in two intents; use the "Lexicon" for synonyms.

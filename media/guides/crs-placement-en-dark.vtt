@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:08.660
+Placement: placement tests and their results; the assistant sends the test in the chat and suggests the right class.
+
+2
+00:00:09.206 --> 00:00:12.830
+Create a "New test" and add questions with "Question".
+
+3
+00:00:13.380 --> 00:00:19.020
+Under "Score bands → level", say which level each score range maps to.
+
+4
+00:00:19.566 --> 00:00:29.040
+Under "Results", see the score and "Recommended class"; correct it after an interview with "Set the result (interview / correction)".
+
+5
+00:00:29.592 --> 00:00:34.420
+A short test (10 to 15 questions) gets finished more often.

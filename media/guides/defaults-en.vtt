@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:12.340
+Default messages: the system DM messages (outside business hours, no answer found, and so on), how often each may repeat, and your business hours.
+
+2
+00:00:12.889 --> 00:00:17.790
+Under "Default DM messages", write each message in your languages.
+
+3
+00:00:18.344 --> 00:00:24.680
+"Repeat interval" means each message goes to the same person at most once in that time.
+
+4
+00:00:25.235 --> 00:00:34.370
+In "Business hours", turn on "Business hours enabled" and set the days, hours and time zone; the top of the card shows whether you're open now.
+
+5
+00:00:34.921 --> 00:00:42.310
+Click "Save messages & hours"; it applies from the next message. The most recently sent ones are at the bottom.
+
+6
+00:00:42.857 --> 00:00:52.960
+Write {open_time} in the text and the next opening time (“tomorrow at 9”, say) is filled in for you; don't type a fixed time.

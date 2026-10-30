@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:08.110
+Invoices: invoices, pro-formas and credit notes numbered in sequence, plus VAT settings.
+
+2
+00:00:08.658 --> 00:00:18.600
+Under "Invoices & VAT", set the legal name, VAT number and rate; turn on "Issue an invoice after each payment" if you like.
+
+3
+00:00:19.153 --> 00:00:26.380
+For a pro-forma, click "New pro-forma", add lines with "Add line" and click "Issue".
+
+4
+00:00:26.933 --> 00:00:30.560
+Send the document with "Send to the customer in the chat".
+
+5
+00:00:31.107 --> 00:00:37.210
+An issued document isn't deleted; voiding keeps its number so the sequence isn't broken.

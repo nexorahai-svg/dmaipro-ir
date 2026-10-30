@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:10.040
+Plans: subscription plans: period, price, credits per period, freezes, skips and recurring deliveries.
+
+2
+00:00:10.591 --> 00:00:17.740
+Click "New plan" and set the "Period", "Price" and "Credits per period (empty = unlimited)".
+
+3
+00:00:18.291 --> 00:00:22.490
+Set the "Freezes per period", "Grace days" and "Rollover".
+
+4
+00:00:23.040 --> 00:00:29.960
+For meal, water or gas plans, set the "Recurring delivery (days)" and delivery days.
+
+5
+00:00:30.506 --> 00:00:35.800
+Your trade's suggested plans have no prices; set your own before activating.

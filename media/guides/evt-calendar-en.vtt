@@ -1,0 +1,29 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:10.900
+Events calendar: the events calendar: date locks, holds until the deposit, and each day's events with details, run sheet and payments.
+
+2
+00:00:11.453 --> 00:00:16.120
+Pick a day, create a "New event" and set the "Package" and guest count.
+
+3
+00:00:16.672 --> 00:00:24.630
+"Hold the date" keeps the date until the deposit; click "Ask for the deposit", and after payment "Confirm booking".
+
+4
+00:00:25.182 --> 00:00:33.770
+Write the "Run sheet (shared with the customer)"; the customer sees it on their page. Near the date, click "Ask for the balance".
+
+5
+00:00:34.320 --> 00:00:44.110
+For a particular day, set "Events allowed" under "This day's rule"; empty means the default from settings, and zero means the day is closed.
+
+6
+00:00:44.659 --> 00:00:57.010
+The general rules (holds, deposit, reminders and ticket rules) are in the "Event settings" boxes lower on this page; the settings button next to "New event" opens the first one.
+
+7
+00:00:57.558 --> 00:01:05.910
+A hold has a time limit; if the deposit doesn't come, the date is freed. To extend, click "Extend the hold".

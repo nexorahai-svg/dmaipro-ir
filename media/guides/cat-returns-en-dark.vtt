@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:09.070
+Returns: return, exchange and warranty requests customers send in DMs, with photos or video of the item.
+
+2
+00:00:09.624 --> 00:00:14.210
+Open the request and look at the reason and "Customer's photos / video".
+
+3
+00:00:14.765 --> 00:00:19.980
+Decide by your return rule and change the status; the customer is told.
+
+4
+00:00:20.533 --> 00:00:30.640
+When the item arrives, set the status to "Item received"; if "Put returned items back in stock" is on in the shipping settings, it goes back into stock.
+
+5
+00:00:31.185 --> 00:00:36.660
+Before refusing, check the photos closely and write the reason for the customer.

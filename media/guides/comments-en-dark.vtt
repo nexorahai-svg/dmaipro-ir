@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:11.140
+Comments: comments on your Instagram posts and what was done with them: a public reply under the post, a private DM to that person, or nothing.
+
+2
+00:00:11.688 --> 00:00:20.510
+Each row is one comment: who wrote it, the text, the "Public reply" posted under it and the "Private DM" sent to them.
+
+3
+00:00:21.060 --> 00:00:28.290
+Comments on your last five posts are checked every two minutes; a comment that matches no rule gets no reply.
+
+4
+00:00:28.840 --> 00:00:37.430
+The comment-to-DM rules (for example: whoever writes "price" gets the price by DM) are made in "Automations".
+
+5
+00:00:37.977 --> 00:00:43.380
+Someone who already got a DM doesn't get a repeat; the result column says so.
+
+6
+00:00:43.928 --> 00:00:53.800
+To reply to comments, Instagram must be connected with comment permissions; if no comments arrive, check the Instagram connection in "Settings & connections".

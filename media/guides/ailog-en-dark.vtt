@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:10.750
+AI log: every AI reply with its source, tools, checks, time and cost, so you can see why the assistant said what it said.
+
+2
+00:00:11.296 --> 00:00:18.600
+At the top: today's replies, the average time, "Cost today", and the replies the checks stopped.
+
+3
+00:00:19.153 --> 00:00:29.670
+Click a row to open "Why did the assistant say this?": the customer's message, the knowledge found, the tools, the checks and the reply sent.
+
+4
+00:00:30.224 --> 00:00:39.460
+Replies that the safety checks changed are in the "Corrected" and "Safe reply + handoff" boxes. These boxes come first on the page and are open.
+
+5
+00:00:40.015 --> 00:00:47.560
+If a reply came from wrong knowledge, fix the text in "Content & pricing"; the log itself changes nothing.

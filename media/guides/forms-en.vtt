@@ -1,17 +1,25 @@
 WEBVTT
 
 1
-00:00:00.800 --> 00:00:10.280
-Forms: the forms customers fill in a chat or through a link, like intake, booking or order, with their fields and their look.
+00:00:00.800 --> 00:00:09.860
+Forms: forms customers fill in a chat or through a link (intake, booking, order…), their fields and their look.
 
 2
-00:00:10.826 --> 00:00:20.930
-See the existing forms, and make your own copy of a ready form with Duplicate as editable. Or create a New form, and add questions from Fields.
+00:00:10.408 --> 00:00:19.880
+In "Forms" each form is a box; open it for "Edit" and "Archive". Make your own copy of a ready form with "Duplicate as editable".
 
 3
-00:00:21.478 --> 00:00:25.760
-In Form design, set the colours and look of the form page.
+00:00:20.433 --> 00:00:24.290
+Or create a "New form" and add the questions from "Fields".
 
 4
-00:00:26.306 --> 00:00:37.300
-Put the form in a flow or an automation; the answers are saved on that customer's record. Keep forms short: every extra question lowers how many people finish.
+00:00:24.843 --> 00:00:29.200
+In "Form design", set the colours and look of the form page.
+
+5
+00:00:29.749 --> 00:00:35.380
+Put the form in a flow or automation; the answers are saved on that customer's record.
+
+6
+00:00:35.934 --> 00:00:41.150
+Keep forms short; every extra question lowers how many people finish.

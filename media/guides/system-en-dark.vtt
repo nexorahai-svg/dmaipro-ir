@@ -1,0 +1,33 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:14.120
+System: this computer's status: what DMAI Pro does now and what it doesn't, required software, network, the built-in AI engine and its models, and the software licence.
+
+2
+00:00:14.666 --> 00:00:21.090
+Read "Does now" and "Does not do, and why"; each item says what turns it on.
+
+3
+00:00:21.635 --> 00:00:27.110
+"Required software" and "Network" should be green; if not, fix that item.
+
+4
+00:00:27.664 --> 00:00:36.090
+In "Built-in AI engine", download and pick the model that suits your computer; the "Quick speed test" shows how long each reply takes.
+
+5
+00:00:36.645 --> 00:00:52.830
+Turn on "Read voice notes in the cloud (more accurate)" only if you want more accuracy. It needs your own ElevenLabs key, and each customer voice note goes to ElevenLabs' servers to become text; when off, voice notes are read on this computer.
+
+6
+00:00:53.384 --> 00:01:04.850
+In "Your business's special words", list the product names, brands and terms customers say in voice notes that must be written exactly, then click "Save the words".
+
+7
+00:01:05.395 --> 00:01:18.950
+In "Exact pronunciation (vowel marks)", keep "Full vowel marks before the voice is made" on, add your own words and English words with how they are said, and use "Try it" to hear how they are read.
+
+8
+00:01:19.496 --> 00:01:28.480
+A model too big for the graphics card makes replies very slow; if so, pick a smaller model or a cloud service in "Settings".

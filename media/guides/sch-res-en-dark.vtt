@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:12.340
+Resources & hours: staff, rooms, equipment and vehicles, each with hours, breaks and days off; plus the whole business's hours and public holidays.
+
+2
+00:00:12.889 --> 00:00:20.280
+Click "New resource", pick the type and colour; if it keeps its own hours, turn on "Has its own hours".
+
+3
+00:00:20.825 --> 00:00:25.420
+Add "Breaks" with "Add a break"; they repeat every day.
+
+4
+00:00:25.966 --> 00:00:31.920
+Record leave or a day with special hours under "Days off & special hours".
+
+5
+00:00:32.465 --> 00:00:40.160
+Public holiday dates are computed; confirm lunar ones with "Confirm date" or fix them with "Adjust date".
+
+6
+00:00:40.715 --> 00:00:48.490
+Lunar holiday dates are approximate; confirm them every year so the assistant doesn't book or refuse on the wrong day.

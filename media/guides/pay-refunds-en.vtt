@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:06.200
+Refunds: full or partial refunds, through the gateway or by hand.
+
+2
+00:00:06.751 --> 00:00:12.390
+Record the refund from the payments inbox or the customer's page and enter the amount.
+
+3
+00:00:12.936 --> 00:00:20.710
+If the gateway supports it, choose "Through the gateway (when it supports it)"; otherwise return the money by hand.
+
+4
+00:00:21.264 --> 00:00:25.850
+After a manual refund, click "Done" and "Tell the customer".
+
+5
+00:00:26.405 --> 00:00:31.810
+If a gateway refund fails, a ticket opens for the team; don't leave it.

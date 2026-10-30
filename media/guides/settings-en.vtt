@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:13.540
+Settings: how the assistant replies: automatic or manual approval, the AI engine and its cost, the Instagram menu, follow-up and handoff, alerts and backups.
+
+2
+00:00:14.091 --> 00:00:23.150
+In "Reply mode", choose "Automatic reply" or "Manual approval"; with manual approval, replies go to "Approval queue" first.
+
+3
+00:00:23.699 --> 00:00:32.940
+In "AI engine", pick the local model (free, slow) or a cloud service, paste the key and try "Test with a message".
+
+4
+00:00:33.489 --> 00:00:43.590
+Set the "Monthly cost cap (USD, 0 = no cap)" and keep "If the cloud service fails, reply with the local model" on.
+
+5
+00:00:44.142 --> 00:00:55.050
+In "Instagram menu", arrange the menu buttons and click "Apply to Instagram"; in "Follow-up & handoff", set reminders and when a chat returns to the assistant.
+
+6
+00:00:55.604 --> 00:01:02.600
+The cloud service key is stored only on this computer and isn't shown again; keep a copy somewhere safe.

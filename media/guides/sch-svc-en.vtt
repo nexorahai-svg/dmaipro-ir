@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:12.420
+Services & durations: bookable services: duration, buffers before and after, price and deposit, group-class capacity, and who can do it.
+
+2
+00:00:12.968 --> 00:00:18.450
+Click "New service" and enter the name, "Duration (min)" and "Price".
+
+3
+00:00:18.997 --> 00:00:24.790
+In "Other names", write the names customers use so the assistant recognises the service.
+
+4
+00:00:25.339 --> 00:00:31.130
+If you take a deposit, set its type and amount; the slot is held until it's paid.
+
+5
+00:00:31.682 --> 00:00:38.990
+Under "Who can do it", pick the staff or rooms that do this service; empty means everyone.
+
+6
+00:00:39.539 --> 00:00:47.500
+Don't forget "Buffer after (min)" for cleaning or preparation, or appointments are booked back to back.

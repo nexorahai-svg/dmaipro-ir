@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:09.620
+Orders: every order with its status, shipping and payment; orders the assistant takes in DMs are recorded here automatically.
+
+2
+00:00:10.173 --> 00:00:16.040
+Switch between "List" and "Board"; filter to "Open orders" to see only open work.
+
+3
+00:00:16.593 --> 00:00:23.670
+Orders without a price wait in "To price"; set the price and click "Save prices & request payment".
+
+4
+00:00:24.216 --> 00:00:34.160
+When money arrives, "Record payment"; after sending, add the tracking code and click "Shipped". The customer is told at each status change.
+
+5
+00:00:34.712 --> 00:00:38.260
+Record a phone or walk-in order with "New order".
+
+6
+00:00:38.808 --> 00:00:44.520
+Cancelling returns the stock; agree with the customer before cancelling a paid order.

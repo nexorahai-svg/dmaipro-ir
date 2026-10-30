@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:12.600
+Safety rules: rules that recognise sensitive messages (emergencies, medical, legal, financial, under-18s) and set how the assistant behaves with them.
+
+2
+00:00:13.151 --> 00:00:20.690
+Open each set in "Rule sets" and see its behaviour: a safe reply, a handoff to the team, or an alert.
+
+3
+00:00:21.243 --> 00:00:26.300
+Check your country's emergency numbers; these are what emergency replies send.
+
+4
+00:00:26.854 --> 00:00:32.570
+Type a sentence in "Test a message" and click "Review" to see which rule catches it.
+
+5
+00:00:33.118 --> 00:00:38.600
+For cases specific to your trade, create a "New rule" under "Your rules".
+
+6
+00:00:39.147 --> 00:00:45.720
+Don't turn off the default rules unless you're sure; they stop medical advice and wrong promises.

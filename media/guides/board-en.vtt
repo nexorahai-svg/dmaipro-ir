@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:09.230
+Sales board: each sales stage is a column and each customer a card. Drag a card to change the customer's stage.
+
+2
+00:00:09.781 --> 00:00:22.130
+In the "Board filters" box at the top, pick the sales pipeline (if you have more than one); the columns are its stages. Closed, the box's line names the pipeline and the filters that are on.
+
+3
+00:00:22.680 --> 00:00:29.990
+Drag a card to another column to change the stage; the change also shows in the case and in the dashboard funnel.
+
+4
+00:00:30.538 --> 00:00:36.570
+Click a card to open the customer's case; make a task with a due time there for the next step.
+
+5
+00:00:37.115 --> 00:00:46.170
+Use the same box's filters to see only one team member's cards, one source, or hot leads; they are the customers list's filters too.
+
+6
+00:00:46.723 --> 00:00:54.110
+Many cards move on their own (after a payment receipt, for example); move them by hand only for exceptions.

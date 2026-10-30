@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:10.120
+Packages: event packages with options and a per-guest price; an event's price = package × guests + options.
+
+2
+00:00:10.669 --> 00:00:15.100
+Click "New package" and set the "Base price" and "Price per guest".
+
+3
+00:00:15.653 --> 00:00:19.930
+Set "Min guests" and "Max guests" and add the "Options".
+
+4
+00:00:20.480 --> 00:00:25.960
+In "Related words (automatic choice)", write the names customers use.
+
+5
+00:00:26.509 --> 00:00:30.940
+A package used by an event isn't deleted but switched off.

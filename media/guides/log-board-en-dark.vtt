@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:05.940
+Shipments board: every shipment by stage, from booking to delivery.
+
+2
+00:00:06.489 --> 00:00:11.000
+Columns are stages; open a shipment to see its "Timeline".
+
+3
+00:00:11.552 --> 00:00:16.380
+Use the "Exceptions" filter to see only problem or late shipments.
+
+4
+00:00:16.928 --> 00:00:21.520
+If shop orders or DM requests aren't here yet, click "Sync".
+
+5
+00:00:22.069 --> 00:00:29.530
+Don't forget "Send the status to the customer" at each status change; an uninformed customer messages more.

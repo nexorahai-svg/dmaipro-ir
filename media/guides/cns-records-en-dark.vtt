@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:09.470
+Signed consents: every signed consent with its version, text fingerprint and permissions, plus forms waiting for a signature.
+
+2
+00:00:10.016 --> 00:00:15.970
+Click "Send a form"; the signing link is sent in the chat, or the customer signs on site.
+
+3
+00:00:16.515 --> 00:00:22.390
+Under "Waiting", see unsigned forms and use "Send the link again" if needed.
+
+4
+00:00:22.936 --> 00:00:29.430
+Under "Signed", open a consent to see "Health answers" and "Permissions", and get a "Printable copy".
+
+5
+00:00:29.984 --> 00:00:36.480
+The health-flags filter shows yes answers to health questions; always check them before the service.

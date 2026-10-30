@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:07.870
+Product waitlist: people waiting for an out-of-stock item to come back; when it's back, you let them know.
+
+2
+00:00:08.422 --> 00:00:14.140
+Each row is a product or option with the number of people waiting and its stock status.
+
+3
+00:00:14.687 --> 00:00:20.320
+Once a row shows "In stock", click "Notify now" to message the people waiting.
+
+4
+00:00:20.872 --> 00:00:26.900
+Customers join the queue in DMs when an item is out of stock; you don't need to add anyone yourself.
+
+5
+00:00:27.450 --> 00:00:32.670
+If "Back-in-stock waitlist" is off for a product, customers can't join its queue.

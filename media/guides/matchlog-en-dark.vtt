@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:12.600
+Match log: for every message and comment, why it did or didn't get a reply: which keyword, by which route, or that it was excluded, negative or a repeat.
+
+2
+00:00:13.151 --> 00:00:23.330
+Each kind has its own box: "No match" comes first and open; open "Matched", "Excluded / negative" and "Repeated" from their headers.
+
+3
+00:00:23.882 --> 00:00:32.230
+Each row shows the text, the source (DM, comment, story or link), the keyword and the result.
+
+4
+00:00:32.784 --> 00:00:39.540
+Review the "No match" messages; if a common word was missed, add it to the keywords or the "Lexicon".
+
+5
+00:00:40.093 --> 00:00:46.040
+"No match" doesn't always mean no reply; the menu or the AI may have answered it.

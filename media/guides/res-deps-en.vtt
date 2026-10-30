@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:10.820
+Departures: scheduled departures (tours, boats, shuttles): seats per departure, weekly patterns and the passenger manifest.
+
+2
+00:00:11.374 --> 00:00:17.640
+Create the week's repeating departures at once with "Weekly pattern", or click "New departure".
+
+3
+00:00:18.187 --> 00:00:21.650
+Set the "Price per person" and the "Minimum to run".
+
+4
+00:00:22.204 --> 00:00:29.590
+On the day, open the manifest; if a departure doesn't reach the minimum, cancel it so passengers are told.
+
+5
+00:00:30.140 --> 00:00:34.000
+Don't cancel late; passengers have planned to get there.

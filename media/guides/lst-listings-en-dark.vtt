@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:13.700
+Listings: listings (property, cars, boats…) with attributes, price, photos and a public page; the assistant suggests matching listings from what the customer wants.
+
+2
+00:00:14.248 --> 00:00:21.400
+If you have no listing types yet, click "Create ready-made types" to create your trade's types with ready attributes.
+
+3
+00:00:21.949 --> 00:00:29.330
+Click "New listing"; write the three-language title, price, attributes and each language's description.
+
+4
+00:00:29.884 --> 00:00:33.200
+Upload photos or pick them "From the library…".
+
+5
+00:00:33.745 --> 00:00:39.930
+For many listings use "Import from CSV"; put the "Listing page link" in stories.
+
+6
+00:00:40.480 --> 00:00:47.550
+Don't delete a sold listing; change its status so the assistant stops offering it and the history stays.

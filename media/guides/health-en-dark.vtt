@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:13.310
+Health check: checks every flow, automation, saved message, form and scenario together: repeated keywords, missing texts, app limits, broken links and dead ends.
+
+2
+00:00:13.856 --> 00:00:18.290
+Open the page; the "Health check before publishing" runs by itself.
+
+3
+00:00:18.840 --> 00:00:24.710
+Fix the red items and look at the yellow ones; click an item to open it where it lives.
+
+4
+00:00:25.261 --> 00:00:28.180
+After fixing, click "Review again".
+
+5
+00:00:28.730 --> 00:00:34.520
+A yellow warning doesn't block anything, but it's usually where a customer gets confused.

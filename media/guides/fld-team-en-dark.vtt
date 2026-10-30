@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:07.220
+Team & setup: technicians and their private links, checklists and field-service settings.
+
+2
+00:00:07.769 --> 00:00:14.690
+Create a "New technician" or bring them in "From scheduling staff"; write their "Skills (comma-separated)".
+
+3
+00:00:15.235 --> 00:00:20.950
+Send "The technician's private link" to that technician only; they see their jobs through it.
+
+4
+00:00:21.499 --> 00:00:28.180
+Under "Checklists", create one per service and mark which items need a photo or are required.
+
+5
+00:00:28.730 --> 00:00:32.850
+When a technician leaves, cancel their link with "New link".

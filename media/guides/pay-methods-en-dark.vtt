@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:11.140
+Methods by region: payment methods by country and currency: gateways, instalments and cash on delivery, with minimum and maximum amounts.
+
+2
+00:00:11.688 --> 00:00:17.090
+Click "Connect" on a method, enter its keys and click "Save & test".
+
+3
+00:00:17.638 --> 00:00:26.300
+Set each method's "Countries (empty = all)" and "Currencies (empty = all)"; empty means all.
+
+4
+00:00:26.854 --> 00:00:35.360
+Register the "Webhook URL to register in the provider's dashboard" in the gateway's dashboard so payments confirm automatically.
+
+5
+00:00:35.913 --> 00:00:42.330
+Don't mix test and live keys; a method isn't shown to customers until its test passes.

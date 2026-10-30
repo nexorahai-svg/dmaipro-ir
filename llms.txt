@@ -12,6 +12,8 @@ Every page exists in English (/en/), Persian (/fa/) and Arabic (/ar/).
 - [Ready flows for 1,907 business types in 217 trades](https://dmaipro.app/en/product/flows/): Choose your trade and a set of flows is installed: booking, price questions, comment to DM, rescheduling and after-service follow-up. Each one can be changed.
 - [One profile per customer, one column per stage](https://dmaipro.app/en/product/crm/): A customer who wrote from several apps has one profile. Sales stage, tags, tasks and notes live in that profile.
 - [Your inbox, on your phone](https://dmaipro.app/en/product/mobile/): The phone app goes on your Android or iPhone home screen without an app store and connects to the business computer by scanning a code.
+- [Instagram comment to DM](https://dmaipro.app/en/comment-to-dm/): A keyword under an Instagram post gets a private message with the answer.
+- [Booking from chat](https://dmaipro.app/en/booking-from-chat/): Customers book, move or cancel inside Instagram, WhatsApp or Telegram.
 - [The phone app: how it works](https://dmaipro.app/en/phone-app/): run the day's work from a phone while DMAI Pro runs on the business computer; setup on iPhone and Android, security, limits
 - [Security and privacy](https://dmaipro.app/en/security/): data stays on the business's own computer
 
@@ -90,7 +92,7 @@ Every page exists in English (/en/), Persian (/fa/) and Arabic (/ar/).
 - [Signed consents](https://dmaipro.app/en/academy/cns-records/): Every signed consent with its version, text fingerprint and permissions, plus forms waiting for a signature.
 - [Expiring](https://dmaipro.app/en/academy/cns-expiring/): Consents that will expire soon and need signing again.
 - [Templates & settings](https://dmaipro.app/en/academy/cns-templates/): Consent form texts in three languages, health questions, age rules and validity, and a library of ready forms.
-- [Programs & levels](https://dmaipro.app/en/academy/crs-programs/): What you teach: programs (say, English), levels, fees and books; and each program's classes with teacher, days, times and capacity.
+- [Programs & levels](https://dmaipro.app/en/academy/crs-programs/): What you teach: programmes (say, English), levels, fees and books; and each programme's classes with teacher, days, times and capacity.
 - [Timetable](https://dmaipro.app/en/academy/crs-timetable/): This week's sessions in your calendar and the class list; make-up sessions and cancellations are done here too.
 - [Enrollments](https://dmaipro.app/en/academy/crs-enrollments/): Students and guardians, enrollments, fees, attendance, progress and certificates.
 - [Attendance](https://dmaipro.app/en/academy/crs-attendance/): Recent sessions and attendance, plus each teacher's own attendance link.
@@ -147,6 +149,9 @@ Every page exists in English (/en/), Persian (/fa/) and Arabic (/ar/).
 - [Units & rates](https://dmaipro.app/en/academy/res-units/): Unit types (rooms, cars, boats, courts, equipment, tours…), their units, rates, closed dates and photos.
 - [Tables](https://dmaipro.app/en/academy/res-tables/): Restaurant tables and table combinations for bigger parties.
 - [Departures](https://dmaipro.app/en/academy/res-deps/): Scheduled departures (tours, boats, shuttles): seats per departure, weekly patterns and the passenger manifest.
+- [Exercise library](https://dmaipro.app/en/academy/exercises/): Every exercise with its video or picture, the muscles it works and the equipment. The same exercises are used in programmes, the trainee panel and answers to DM requests.
+- [Programs & templates](https://dmaipro.app/en/academy/programs/): Training programme templates: days, exercises, sets and reps. Each trainee gets a personal copy and the template itself stays unchanged.
+- [Check-ins](https://dmaipro.app/en/academy/checkins/): Trainees' weekly reports: weight, measurements, sleep, energy, stress, adherence and photos. Your feedback shows in the DM and the trainee panel.
 
 ## Optional
 - [Video academy](https://dmaipro.app/en/academy/)

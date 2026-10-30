@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:10.350
+Bookings: every booking with filters and search: reference, customer, service, time, status, deposit and source.
+
+2
+00:00:10.904 --> 00:00:17.090
+Search by reference, name or phone, and filter to "Upcoming" or one status.
+
+3
+00:00:17.638 --> 00:00:24.060
+Click a row for details, payment and note; "Open case" opens the customer's full record.
+
+4
+00:00:24.608 --> 00:00:30.400
+"Copy customer link" makes a link where the customer can see, move or cancel their booking.
+
+5
+00:00:30.950 --> 00:00:36.660
+Don't delete a booking; cancel it so the history stays and the customer is told.

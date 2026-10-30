@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:14.660
+Programs & levels: what you teach: programs (say, English), levels, fees and books; and each program's classes with teacher, days, times and capacity.
+
+2
+00:00:15.214 --> 00:00:21.090
+Click "New program", add the "Levels (in order)" in order and set the "Fees".
+
+3
+00:00:21.635 --> 00:00:30.610
+For each level, create a "New class": "Teacher", day and time with "Day & time", "Capacity" and "From / to".
+
+4
+00:00:31.164 --> 00:00:38.160
+In "Other names (comma separated)", write the names customers use for the class so the assistant finds it.
+
+5
+00:00:38.709 --> 00:00:45.390
+Under "School settings", set seat holds until payment, fee reminders and guardian consent.
+
+6
+00:00:45.939 --> 00:00:53.090
+A program or class with enrollments isn't deleted but deactivated; "Archive" a finished class.

@@ -1,0 +1,29 @@
+WEBVTT
+
+1
+00:00:00.800 --> 00:00:13.700
+Content & pricing: everything the assistant knows about your business: the brand name and welcome message, packages and prices, the AI's knowledge, the FAQ and the assistant's tone.
+
+2
+00:00:14.248 --> 00:00:23.310
+In "Brand & messages", write the business name, the "Welcome message (each customer's first message)" and the assistant's short intro.
+
+3
+00:00:23.856 --> 00:00:33.170
+In "Packages & pricing", add each service with "Add package": title, amount and currency; a custom payment link is optional.
+
+4
+00:00:33.724 --> 00:00:40.880
+In "AI knowledge", write everything customers ask about; the AI answers only from this text.
+
+5
+00:00:41.425 --> 00:00:53.040
+Under "Frequently asked questions", add fixed questions and answers in the "New question" box; each language's questions have their own box and are answered instantly, without the AI.
+
+6
+00:00:53.593 --> 00:01:06.750
+In "Persona card (assistant tone)", fine-tune the tone and write the never list; the overall formal-or-casual choice is in "Business profile" (Settings & connections). Then click "Save changes" at the bottom.
+
+7
+00:01:07.302 --> 00:01:15.650
+Every number the assistant says must be here; a price that isn't here is never sent automatically, and the chat is handed to you.
